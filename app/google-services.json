@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "418011303575",
+    "firebase_url": "https://strathmorecampusnavapp.firebaseio.com",
+    "project_id": "strathmorecampusnavapp",
+    "storage_bucket": "strathmorecampusnavapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418011303575:android:092a737faaf5dfa86223d2",
+        "android_client_info": {
+          "package_name": "com.example.strathmorecampusnavapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418011303575-1ur9h6qa47u0a0pp6mpca8o27bji0trs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQDcAyowkiIBSzxGSxN1xWFqpT4XX5FBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418011303575-1ur9h6qa47u0a0pp6mpca8o27bji0trs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
